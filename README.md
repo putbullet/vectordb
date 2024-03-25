@@ -248,7 +248,3 @@ We constantly evaluate embedding models using standardized benchmarks (higher is
 VectorDB is also optimized for speed of retrieval. We automatically uses [Faiss](https://github.com/facebookresearch/faiss) for low number of chunks (<4000) and [mrpt](https://github.com/vioshyvo/mrpt) for high number of chunks to ensure maximum performance across the spectrum of use cases.
 
 ![Vector search engine comparison](images/comparison.png)
-
-## License
-
-MIT License.
